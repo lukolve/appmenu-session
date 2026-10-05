@@ -1,0 +1,4 @@
+Pink RGB(241, 65, 107)
+Grey RGB (31, 31, 31)
+Background RGB(21, 21, 21)
+Lime RGB (147, 171, 86)
